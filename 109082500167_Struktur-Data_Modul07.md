@@ -669,11 +669,11 @@ int main()
 ```
 
 ### Output Unguided 1 :
-![Screenshot Output Unguided 1_1](https://github.com/raysarahma/109082500167_Struktur-Data_Modul06/blob/main/output/output1-unguide01.png)
+![Screenshot Output Unguided 1](https://github.com/raysarahma/109082500167_Struktur-Data_Modul07/blob/main/output-unguide/output-unguide01.png)
 ### Output Unguided 2 :
-![Screenshot Output Unguided 1_1](https://github.com/raysarahma/109082500167_Struktur-Data_Modul06/blob/main/output/output2-unguide01.png)
-### Output Unguided 2 :
-![Screenshot Output Unguided 1_1](https://github.com/raysarahma/109082500167_Struktur-Data_Modul06/blob/main/output/output2-unguide01.png)
+![Screenshot Output Unguided 2](https://github.com/raysarahma/109082500167_Struktur-Data_Modul07/blob/main/output-unguide/output-unguide02.png)
+### Output Unguided 3 :
+![Screenshot Output Unguided 3](https://github.com/raysarahma/109082500167_Struktur-Data_Modul07/blob/main/output-unguide/output-unguide03.png)
 
 penjelasan unguided 01-03 : penjelasan unguided 1-3 : Di unguided ini saya bikin ADT Stack pakai array, dibagi jadi stack.h, stack.cpp, sama main.cpp. Stack-nya punya array info isi 20 dan variabel top. top = -1 artinya stack kosong. Push naikin top lalu simpen datanya di info[top], pop ngambil info[top] terus top-nya diturunin. printInfo nampilin isi dari top ke bawah, jadi yang paling atas keluar duluan. balikStack nuker elemen dari ujung bawah sama ujung atas sampai ketemu di tengah. Di modul tulisannya Push huruf besar dan pop(S) nggak ada titik koma, jadi saya benerin biar bisa dicompile.
 
